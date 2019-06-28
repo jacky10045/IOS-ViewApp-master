@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  拚豆
 //
-//  Created by Zonghan on 2018/3/22.
-//  Copyright © 2018年 Zonghan. All rights reserved.
+//  Created by Chiu on 2019/5/10.
+//  Copyright © 2019 Chiu. All rights reserved.
 //
 
 import UIKit
